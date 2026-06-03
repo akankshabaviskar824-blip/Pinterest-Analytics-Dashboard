@@ -2,6 +2,9 @@
 Pinterest-inspired analytics dashboard built in Power BI using DAX, Power Query, interactive visualizations, KPI cards, slicers, and geographic insights.
 
 
+<img width="1713" height="781" alt="Screenshot 2026-06-03 133957" src="https://github.com/user-attachments/assets/df4e98cc-b516-4f9b-855d-83bbb1f4b606" />
+
+
 📖 Project Overview
 
 This project is a Pinterest-inspired Analytics Dashboard developed using Microsoft Power BI. The dashboard provides insights into Pinterest performance metrics such as impressions, saves, clicks, follower growth, device usage, category performance, and geographic audience distribution.
